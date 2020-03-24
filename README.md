@@ -7,3 +7,5 @@ viable working template for you to use to use to build your own server. The temp
 - Build an application server (web, database, other)
 - Build a client to test application server
 - Deploy on the Skywire network
+
+Use app.template to start writing the skywire application binary
