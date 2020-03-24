@@ -8,5 +8,6 @@ viable working template for you to use to use to build your own server. The temp
 - Build a client to test application server
 - Deploy on the Skywire network
 
+### Getting Started
 Use app.template to start writing the skywire application binary
 https://github.com/devzone777/skywire-mainnet/blob/app-develop/resources/app-build/app.template
